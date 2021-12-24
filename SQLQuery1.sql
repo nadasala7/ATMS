@@ -1,0 +1,1 @@
+insert into ATTENDANCE ("User_Name","User_DP","Date") values("Name","DP",12-12-2021);

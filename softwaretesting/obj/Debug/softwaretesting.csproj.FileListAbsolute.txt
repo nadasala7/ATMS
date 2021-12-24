@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\softwaretesting\softwaretesting\bin\Debug\softwaretesting.exe.config
+C:\Users\Hp\Desktop\softwaretesting\softwaretesting\bin\Debug\softwaretesting.exe
+C:\Users\Hp\Desktop\softwaretesting\softwaretesting\bin\Debug\softwaretesting.pdb
+C:\Users\Hp\Desktop\softwaretesting\softwaretesting\obj\Debug\softwaretesting.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\softwaretesting\softwaretesting\obj\Debug\softwaretesting.PAL.Forms.Formlogin.resources
+C:\Users\Hp\Desktop\softwaretesting\softwaretesting\obj\Debug\softwaretesting.Properties.Resources.resources
+C:\Users\Hp\Desktop\softwaretesting\softwaretesting\obj\Debug\softwaretesting.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\softwaretesting\softwaretesting\obj\Debug\softwaretesting.exe
+C:\Users\Hp\Desktop\softwaretesting\softwaretesting\obj\Debug\softwaretesting.pdb
+C:\Users\Hp\Desktop\softwaretesting\softwaretesting\obj\Debug\softwaretesting.PAL.Forms.Formforgetpassword.resources
+C:\Users\Hp\Desktop\softwaretesting\softwaretesting\obj\Debug\softwaretesting.PAL.Forms.FormMain.resources
+C:\Users\Hp\Desktop\softwaretesting\softwaretesting\obj\Debug\softwaretesting.PAL.Forms.FormAttendance.resources
+C:\Users\Hp\Desktop\softwaretesting\softwaretesting\obj\Debug\softwaretesting.PAL.Forms.Formdashboard.resources
+C:\Users\Hp\Desktop\softwaretesting\softwaretesting\obj\Debug\softwaretesting.PAL.Forms.Formleavingrequests.resources
